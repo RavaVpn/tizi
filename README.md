@@ -83,7 +83,7 @@
 | 下载渠道 | 苹果手机用海外区 App Store；安卓用官网 APK | Windows、Mac 都从官网下载安装包 |
 | 挑的时候重点看 | 切网能不能自动接上、流量限不限 | 有没有正式客户端、能不能和手机共用账号 |
 
-详细对比：[手机 VPN 推荐](https://leebnbppp2.github.io/shouji-vpn/)、[电脑 VPN 推荐](https://leebnbppp2.github.io/diannao-vpn/)。
+详细对比：[手机 VPN 推荐](https://ravavpn.github.io/shouji-vpn/)、[电脑 VPN 推荐](https://ravavpn.github.io/diannao-vpn/)。
 
 ## 梯子下载：只认官方渠道
 
@@ -93,11 +93,11 @@
 - 名字带「破解」「VIP 版」「免登录」的一律不装；
 - 梯子只需要网络权限，要读通讯录、短信的都不正常。
 
-Rava 四个平台的官方下载都在 https://tryrava.com/vpn-xiazai 。各平台的装法见 [梯子下载：安装包从哪下才安全](https://leebnbppp2.github.io/tizi-xiazai/)。
+Rava 四个平台的官方下载都在 https://tryrava.com/vpn-xiazai 。各平台的装法见 [梯子下载：安装包从哪下才安全](https://ravavpn.github.io/tizi-xiazai/)。
 
 ## 梯子工具有哪几种
 
-除了上面说的成品 VPN、机场、自己搭，还有一种是**浏览器插件**：只管浏览器，手机 App 和电脑上的其他软件都用不了，适合只在电脑上看网页的人。四种工具的完整对比见 [梯子工具怎么选](https://leebnbppp2.github.io/)。
+除了上面说的成品 VPN、机场、自己搭，还有一种是**浏览器插件**：只管浏览器，手机 App 和电脑上的其他软件都用不了，适合只在电脑上看网页的人。四种工具的完整对比见 [梯子工具怎么选](https://ravavpn.github.io/)。
 
 ## 相关页面
 
@@ -106,6 +106,6 @@ Rava 四个平台的官方下载都在 https://tryrava.com/vpn-xiazai 。各平�
 - 免费 VPN、免费梯子靠谱吗：https://tryrava.com/free-vpn
 - VPN 下载安装：https://tryrava.com/vpn-xiazai
 - 官方网站：https://tryrava.com
-- [梯子工具怎么选：四种工具对比](https://leebnbppp2.github.io/)
-- [手机 VPN 推荐](https://leebnbppp2.github.io/shouji-vpn/)
-- [电脑 VPN 推荐](https://leebnbppp2.github.io/diannao-vpn/)
+- [梯子工具怎么选：四种工具对比](https://ravavpn.github.io/)
+- [手机 VPN 推荐](https://ravavpn.github.io/shouji-vpn/)
+- [电脑 VPN 推荐](https://ravavpn.github.io/diannao-vpn/)
