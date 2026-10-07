@@ -13,7 +13,7 @@
 | 梯子完整指南（图表版） | https://tryrava.com/tizi |
 | 下载安装教程（手机、电脑） | https://tryrava.com/vpn-xiazai |
 | 装好后检测是否生效 | https://tryrava.com/ip-chaxun |
-| 官方地址发布页（防失联） | https://github.com/leebnbppp2/rava-links |
+| 官方地址发布页（防失联） | https://github.com/RavaVpn/rava-links |
 
 ## 梯子、VPN、机场，是一回事吗
 
